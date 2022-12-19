@@ -6,4 +6,4 @@
 
 from testing    /   from master
 
-merge is merge
+what is merge? merge is merge
